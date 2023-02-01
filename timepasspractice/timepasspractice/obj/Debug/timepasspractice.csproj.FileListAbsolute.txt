@@ -1,0 +1,8 @@
+D:\raj\timepasspractice\timepasspractice\bin\Debug\timepasspractice.exe.config
+D:\raj\timepasspractice\timepasspractice\bin\Debug\timepasspractice.exe
+D:\raj\timepasspractice\timepasspractice\bin\Debug\timepasspractice.pdb
+D:\raj\timepasspractice\timepasspractice\obj\Debug\timepasspractice.csproj.AssemblyReference.cache
+D:\raj\timepasspractice\timepasspractice\obj\Debug\timepasspractice.csproj.SuggestedBindingRedirects.cache
+D:\raj\timepasspractice\timepasspractice\obj\Debug\timepasspractice.csproj.CoreCompileInputs.cache
+D:\raj\timepasspractice\timepasspractice\obj\Debug\timepasspractice.exe
+D:\raj\timepasspractice\timepasspractice\obj\Debug\timepasspractice.pdb
